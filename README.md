@@ -1,6 +1,6 @@
 # Go Sorting Algorithms Activity
 
-My codes for task 2b
+My codes for task 2A
 
 ## Activities
 
@@ -18,7 +18,7 @@ My codes for task 2b
 - `01_datatype.go`
 - `02_loop.go`
 - `03_array.go`
-- '04_comparisonandswap.go'
+- `04_comparisonandswap.go`
 - `05_bubble_sort.go`
 - `06_selection_sort.go`
 - `07_insertion_sort.go`
